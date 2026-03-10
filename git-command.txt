@@ -37,3 +37,11 @@ git pull origin master
   42 git branch
   43 git checkout master
   44 git pull origin master
+
+52 git log
+  53 git checkout dev
+  54 git add .\this-is-new-file.txt
+  55 git commit -m "this is new file commit "
+  56 git push origin dev
+  57 git switch master
+  58 git merge dev  <use to merge branch localy>
