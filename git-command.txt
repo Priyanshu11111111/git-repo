@@ -22,3 +22,18 @@ ls -Force
   22 git push origin master
   23 git add git-command.txt
 git pull origin master
+
+ 31 git branch
+  32 git branch dev
+  33 git branch
+  34 git switch dev
+  35 git branch
+  36 git add .\this-is-from-dev.txt
+  37 git commit -m "this is dev branch commit 1"
+  38 git switch master
+  39 git branch
+  40 git checkout dev
+  41 git push origin dev
+  42 git branch
+  43 git checkout master
+  44 git pull origin master
