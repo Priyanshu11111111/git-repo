@@ -1,6 +1,9 @@
 git init 
 git add .
 git git commit -m "first commit" 
+git restore <file name>
+git status
+
 ls -Force
    7 git remote add origin https://github.com/Priyanshu11111111/git-repo.git
    8 git remote -v
@@ -14,3 +17,7 @@ ls -Force
   16 history
   17 git remote -v
   18 git clone <https URL of that repo>
+  20 git push origin master
+  21 git commit -m "thired commit"
+  22 git push origin master
+  23 git add git-command.txt
