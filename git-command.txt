@@ -21,3 +21,4 @@ ls -Force
   21 git commit -m "thired commit"
   22 git push origin master
   23 git add git-command.txt
+git pull origin master
